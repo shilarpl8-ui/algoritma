@@ -1,8 +1,8 @@
-nama = "bila"
-print("nama : ", bila)
+nama = "shila"
+print("nama : ", shila)
 umur = 15
 print("umur = ", umur)
-tinggi = 165 cm
+tinggi = 155 cm
 print("tinggi : ", tinggi, cm)
 lulus = False
 print("lulus :", lulus)
